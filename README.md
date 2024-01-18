@@ -13,4 +13,4 @@ The Checklist ist split into 4 Topics:
 Beyond that all items in the list have a priority level (high, medium, low) to bring attention to the most important pieces to be done. Can also be adjusted to individual cases. An example, where the checklist got used, with adapted prioritazion, can be found in the second Tab named "Chillomania". It is the analysis of a dummy-website for the fictiour Company "Chillomania" selling couches.
 
 
-Project created as part of the bootcamp Marketing Analytics by WBS Coding School
+Project created as part of the bootcamp [Marketing Analytics by WBS Coding School](https://www.wbscodingschool.com/marketing-analytics-bootcamp/)
